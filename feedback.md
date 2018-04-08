@@ -7,6 +7,12 @@ Thanks, Danny
 
 ------
 
+## Homework assignment 4
+
+Feedback: Fellas, I was glad to see that you are both working on complementary parts of the project. It appears that Chris has hit a snag, so maybe y'all should talk together about it and what you are trying to do. I noticed in Brian's notebook that there was a clearly described rationale (in text) for what he is trying to do, but I wasn't sure what Chris's notebook was supposed to be doing because I would be inferring from the code. We can also chat about what you are both trying to do and make sure that you are doing it in a way that supports the project. I'm happy to do that anytime if it's helpful. In any event, it sound like you need to get your code working to produce some qualitative solutions that make sense and then start putting together a draft of the poster this week.
+
+* Score: 16/20
+
 ## Homework assignment 3
 
 Feedback: Fellas, I think what you have here shows me that you have started to develop a connection between the analytical and modeling problem you will have. I think that you might need to appreciate that the questions which you have here are the result of analytical modeling (i.e., some restricted arguments that lead to these equations). If you intend to do part A as you describe, you making a first principles model of radiation, which is fine. You will need to understand for a single particle how to calculate the radiated power in each time step so you can begun to determine how that will work in the undulator. I think if you get the first part of this working this week (i.e., modeling a particle and showing you can get the radiated power), you have will be pretty good and can model a small undulator (here the task will be how to represent the magnetic field). Even if you don't get there, you could model a collection of particles.
