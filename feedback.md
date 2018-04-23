@@ -7,6 +7,12 @@ Thanks, Danny
 
 ------
 
+## Homework assignment 6
+
+Feedback: Guys, I know you are concerned about how much you have done and if it's enough. Think about this: you have been working on this project for six weeks. You will need to explain the most basic aspects of what you are doing to your classmates. They have not seen any of this. So, to the question that you have asked: I think you have done plenty to present in a poster because you will: (a) need to explain the setup and phenomenon and (b) need to explain how the modeling was done. So, I'd spend this week thinking about if your end goals is the figures that you have, which explain some of the results of your model, how do you get your classmates to understand your work up to that point? What do you need on the psoter to explain synchrotron radiation and how it gets modeled? The additional questions that you have about parameter depdencies or how to make the model better you can muse about in the future work section. You've really done a lot of work to get this where it is and you should be excited to share that with everyone.
+
+* Score: 20/20
+
 ## Homework assignment 5
 
 Feedback: Fellas, I am glad to see that you have some plots that demonstrate the model that you are working with. It appears that you have something you feel comfortable with and that you can describe concisely. This is important. One question that came to mind for me and that I think will need to be on the poster is: what is the model you are using. That is, what is the electron doing when you are modeling and it how does that relate to the figures you have produced. You will need a diagram for that model and to explain how the calculations you are doing are related to that specific model. Chris has a good idea in his figure caption discussion about trying to model the electron as it spirals, but I think whatever you end up doing, it will need to be clear how the electron is moving in each model and then what figures are demonstrating. I also want you to think about how you will lay out your poster because you have a lot of figures already to show, so think about what makes sense to prsent conceptually and what people will need to understand before they get to the next figure. Great work!
